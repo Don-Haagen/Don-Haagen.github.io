@@ -1,12 +1,10 @@
 $( document ).ready(function() {
-    console.log("ready")
     var tradeOffSliders = ['scope-slider', 'budget-slider', 'time-slider', 'quality-slider']; 
 
-    tradeOffSliders.forEach(seUpSliders); 
+    tradeOffSliders.forEach(setUpSliders); 
 
-    function seUpSliders(item, index) 
+    function setUpSliders(item, index) 
     { 
-        console.log(item); 
         $( '#' + item + '-value' ).html( index + 1 );
         
         $('#' + item).slider({
@@ -16,9 +14,7 @@ $( document ).ready(function() {
                 step: 1,
                 change: function( event, ui ) {
                         var currentId = this.id;
-                    var previousNumber = parseInt($('#' + currentId + '-value').text(), 10);
-                    //console.log(currentId + ' previousNumber : ' + previousNumber + ', New value: ' + ui.value);
-                    
+                    var previousNumber = parseInt($('#' + currentId + '-value').text(), 10);                    
                     $('.slide-value').each(function(index, obj) {
                         var id = obj.id;
                     var val = $('#' + id).slider('value');
@@ -30,6 +26,5 @@ $( document ).ready(function() {
                     $( '#' + currentId + '-value' ).html( ui.value );
                 }
             });
-            
     }
 });
