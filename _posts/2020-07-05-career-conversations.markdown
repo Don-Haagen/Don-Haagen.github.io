@@ -125,4 +125,4 @@ There are some variants on this depending on the answers and how the discussion 
 4. On a scale 1-10, how certain are you that you will do this? What would bring this to a *higher score*?
 
 
-[career_conversations_matrix_png]: /assets/career_conversation_matrix.PNG "Career conversation matrix"
+[career_conversations_matrix_png]: /assets/images/career_conversation_matrix.PNG "Career conversation matrix"
