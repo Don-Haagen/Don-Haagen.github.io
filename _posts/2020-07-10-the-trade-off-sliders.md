@@ -7,7 +7,7 @@ author: Don Haagen
 tags: [agile slider]
 summary: 
 ---
-<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.0/themes/black-tie/jquery-ui.css">
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/black-tie/jquery-ui.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="{{ base.url | prepend: site.url }}/assets/js/slider.js"></script>
