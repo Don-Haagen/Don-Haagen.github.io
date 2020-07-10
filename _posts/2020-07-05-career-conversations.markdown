@@ -60,7 +60,8 @@ The idea with this agenda is to know about how they picture their future. To get
 
 ----
 ## Purpose Of Third Meeting
-After talking about their past to understand how they got where they are today and we know where they see themselves in the future. It is time to take action. To start building the path to that future. This is done one step at the time and every journey starts with the first step. Have a read through of the [GROW method](./grow-model-useful-questions.html).
+After talking about their past to understand how they got where they are today and we know where they see themselves in the future. It is time to take action. To start building the path to that future. This is done one step at the time and every journey starts with the first step. Have a read through of the 
+[GROW method]({% link _posts/2020-07-05-grow-model-useful-questions.md %}).
 This can be a long discussion. If you run out of time do not fear to end it and schedule a follow up session.
 
 ### Agenda for the 1-1
