@@ -5,9 +5,9 @@ date:   2020-07-05 12:00:00 +0200
 categories: tips tools
 author: Don Haagen
 tags: [1-1]
-summary: Some summary
+summary: How to get started with career conversations.
 ---
-This series will present how career conversations in a new team can be done. 
+This post will present how career conversations in a new team can be done. 
 The inspiration to this creation can be found here:
 - [The Problem with Career Conversations Today](https://www.radicalcandor.com/problem-career-conversations/#:~:text=Career%20Conversations%20are%20exactly%20what,their%20long%2Dterm%20career%20aspirations.)
 - [Three Powerful Conversations Managers Must Have To Develop Their People](https://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)

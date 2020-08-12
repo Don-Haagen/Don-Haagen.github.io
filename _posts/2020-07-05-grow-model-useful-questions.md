@@ -5,7 +5,7 @@ date:   2020-07-05 20:00:00 +0200
 categories: grow tools
 author: Don Haagen
 tags: [1-1]
-summary: Some summary
+summary: GROW is an acronym for Goal, Reality, Options and Will. GROW is a model for coaching people by and provides a method for setting goals.
 ---
 GROW is an acronym for **G**oal, **R**eality, **O**ptions and **W**ill. GROW is a model for coaching people by and provides a method for setting goals. Read more on [Wikipedia](https://en.wikipedia.org/wiki/GROW_model). 
 

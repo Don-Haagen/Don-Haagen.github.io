@@ -5,9 +5,9 @@ date: 2020-07-10 15:26
 categories: tips
 author: Don Haagen
 tags: [1-1]
-summary: Some summary
+summary: It is your responsibility to have 1-1 and make it the employees meeting. Remember the 1-1 is not a status meeting...
 ---
-It is your responsibility to have them and make it their meeting. This is not a status meeting. There are plenty of opportunities to talk about project statuses elsewhere. However, the 1-1 should be about the employee. The 1-1 should have an agenda. This allows the employees to know what you want to discuss and the employee will also be able to prepare himself before the meeting. Try keep it between 30 to 60 minutes. LightHouse has plenty on this topic and some of my favorites are the following:
+First, it is your responsibility to have them and make it their (your employees) meeting. Second, this is not a status meeting. There are plenty of opportunities to talk about project statuses elsewhere. However, the 1-1 should be about the employee. The 1-1 should have an agenda. This allows the employees to know what you want to discuss and the employee will also be able to prepare himself before the meeting. Try keep it between 30 to 60 minutes. LightHouse has plenty on this topic and some of my favorites are the following:
 
 - [Manager’s Guide: How to start one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
 - [One on One Meetings: The Only Guide Managers Need](https://getlighthouse.com/blog/one-on-one-meetings-template-great-leaders/)

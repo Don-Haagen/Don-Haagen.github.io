@@ -5,7 +5,7 @@ date: 2020-07-10 21:31
 category: 
 author: Don Haagen
 tags: [agile slider]
-summary: 
+summary: How to know what is most important for your product owner.
 ---
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/black-tie/jquery-ui.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
