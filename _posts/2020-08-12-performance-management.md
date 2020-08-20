@@ -4,7 +4,7 @@ title: Performance Management
 date: 2020-08-12 08:12
 category: 
 author: Don Haagen
-tags: []
+tags: [performance management]
 summary: What performance management is and how to think about it.
 ---
 
