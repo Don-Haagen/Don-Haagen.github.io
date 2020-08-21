@@ -8,7 +8,7 @@ tags: [performance management]
 summary: What performance management is and how to think about it.
 ---
 
-Each organisation that want to grow people or keep track of performance should use a framework. That is what performance management is about. It is a model/framework to be used managing by objectives and it consists of three parts
+Each organisation that wants to grow people or keep track of performance should use a framework. That is what performance management is about. It is a model/framework to be used managing by objectives and it consists of three parts
 
 1. Objective settings
 2. Managing performance
@@ -21,9 +21,9 @@ In order to track performance you need to know what you are aiming for. The comp
 
 Objectives can also be pushed down from the executive level. Preferably you will go to your team and together with them develop the objectives and goals that you will track your employees against. If you do this with the team you will get a better commitment for the goals since the team was part of creating them. It will be *their goals* as much as your goals. If the goals are created for them without their input it will not be their goals and you cannot expect the team to be as committed to the goals as you want.
 
-In the one to ones with your team members you can start from the team goals and together figure out what the employee can do individually towards these goals. These tasks should be part of his individuals goals.
+In the one to ones with your team members you can start from the team goals and together figure out what the employee can do individually towards these goals. These tasks should be part of his individual goals.
 
-The most important thing is that all goals on all levels are aligned. Individual goals should align with team goals. Team goals need to align with department goals. Department goals needs to align with etc. etc. I think you get it. Why is this important you might ask. Look at the picture below, which company would you like to be in?  
+The most important thing is that all goals on all levels are aligned. Individual goals should align with team goals. Team goals need to align with department goals. Department goals need to align with etc. etc. I think you get it. Why is this important you might ask. Look at the picture below, which company would you like to be in?  
 
 ![alt text][goal_alignments_png]
 
@@ -36,8 +36,8 @@ This is done during the 1-1 it can be coaching or it can be mentoring or the emp
 The performance review is basically a tick boxing exercise. Depending on your organisation this happens once or multiple times a year. However, there are some pointers that are always true. So first things first...
 
 * You are in control. You decide how you want to do this. It is up to you to be prepared.
-* There should be no suprises during the performance review. This is not the time to start providing constructive feedback that your employee never have heared before. 
-* Reviewing the objectives should not consume more than 20% of the time allocated for this meeting. See no suprises above. Everything should already be known by the employee, hence this becomes a tick box exercise.
+* There should be no surprises during the performance review. This is not the time to start providing constructive feedback that your employee has never heard  before. 
+* Reviewing the objectives should not consume more than 20% of the time allocated for this meeting. See no surprises above. Everything should already be known by the employee, hence this becomes a tick box exercise.
 * The other 80% of the time should focus on the future. What goals and objectives should the employee work on until the next performance review.
 * I would say that 45-60 minutes for this should be enough.
 

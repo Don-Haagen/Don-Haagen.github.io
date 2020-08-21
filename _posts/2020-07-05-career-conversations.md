@@ -25,7 +25,7 @@ Make sure to take note in order to keep track on what has been said and differen
 
 ----
 ## Purpose Of First Meeting 
-The idea with this agenda is to get to know the person better. What is most important for them how they got into the job and what they consider to be their strengths. Also to gain a better understanding of their challenges today and to establish how often they want to meet with you.
+The idea with this agenda is to get to know the person better. What is most important for them is how they got into the job and what they consider to be their strengths. Also to gain a better understanding of their challenges today and to establish how often they want to meet with you.
  
 ### Agenda for the 1-1
 1. How did you start with programming?
@@ -87,7 +87,7 @@ This can be a long discussion. If you run out of time do not fear to end it and 
 1. What is actually happening now?
    - In regards to progressing on the goal
 2. What stops you from achieving your goal?
-   - Listen on their language. Is it external blockers or is it themselves that is the blocker?
+   - Listen to their language. Is it external blockers or is it themselves that is the blocker?
    - Depending on what they answer it might be necessary to dig deeper in order to understand
      - What effect does this have?
      - How do you know that this is accurate? 
@@ -114,7 +114,7 @@ This can be a long discussion. If you run out of time do not fear to end it and 
    - Allow them to reflect that if they don't do anything nothing will happen. They are responsible for this. 
 
 #### Will/Way Forward part
-There are some variants on this depending on the answers and how the discussion have progressed. However, first thing is to clarify what they will do next. This creates a stronger commitment.
+There are some variants on this depending on the answers and how the discussion has progressed. However, first thing is to clarify what they will do next. This creates a stronger commitment.
 1. Action items
    - What will you do?
    - Will that action achieve your goal? 

@@ -7,7 +7,7 @@ author: Don Haagen
 tags: [1-1]
 summary: It is your responsibility to have 1-1 and make it the employees meeting. Remember the 1-1 is not a status meeting...
 ---
-First, it is your responsibility to have them and make it their (your employees) meeting. Second, this is not a status meeting. There are plenty of opportunities to talk about project statuses elsewhere. However, the 1-1 should be about the employee. The 1-1 should have an agenda. This allows the employees to know what you want to discuss and the employee will also be able to prepare himself before the meeting. Try keep it between 30 to 60 minutes. LightHouse has plenty on this topic and some of my favorites are the following:
+First, it is your responsibility to have them and make it their (your employees) meeting. Second, this is not a status meeting. There are plenty of opportunities to talk about project statuses elsewhere. However, the 1-1 should be about the employee. The 1-1 should have an agenda. This allows the employees to know what you want to discuss and the employee will also be able to prepare himself before the meeting. Try to keep it between 30 to 60 minutes. LightHouse has plenty on this topic and some of my favorites are the following:
 
 - [Manager’s Guide: How to start one on ones with your team](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
 - [One on One Meetings: The Only Guide Managers Need](https://getlighthouse.com/blog/one-on-one-meetings-template-great-leaders/)
@@ -27,6 +27,6 @@ Make sure to take note in order to keep track on what has been said and differen
 **Should always be at the end of each 1-1**
 * Is there anything that I can help you with or do you need anything from me?
 * What can I hold you accountable for next time we talk?
-   - Bring at least 1 topic for the next 1-1. This is to get the employee into the habit of bringing topics to the 1-1's. This should be things that they want to discuss with you.
+   - Bring at least 1 topic for the next 1-1. This is to get the employee into the habit of bringing topics to the 1-1's. These should be things that they want to discuss with you.
 * What can I be accountable to you for the next time we talk?
 

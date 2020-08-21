@@ -22,7 +22,7 @@ If your organization performance framework is not the best you can always do it 
 There are three perspectives that we need to understand. None of them are right or wrong. It is just three different ways to look at performance reviews.
  
 ### Company perspective
-This might sound strange... The company do not care about all this. They want to know two things
+This might sound strange... The company does not care about all this. They want to know two things
 1. Who are high performers?
 2. Who are low performers?
 
@@ -38,7 +38,7 @@ This is how the employee should do their performance review.
 4. A score
 
 ### Manager perspective
-As a manager this is one of your most important tasks. Most of your employees takes this seriously and so must you, no matter what. Always. If you do, you will gain respect, trust and goodwill. Remember that people usually do not leave companies they <ins>leave managers</ins>. 
+As a manager this is one of your most important tasks. Most of your employees take this seriously and so must you, no matter what. Always. If you do, you will gain respect, trust and goodwill. Remember that people usually do not leave companies they <ins>leave managers</ins>. 
 
 #### How to do it
 you need to create a journal for each employee. This journal should contain
@@ -48,14 +48,14 @@ you need to create a journal for each employee. This journal should contain
 
 You should never base your assessment on opinions. Everyone is entitled to their opinion and if they disagree with yours, you can't do anything about it. However, if you base your assessment on facts and can provide evidence for it then it is not an opinion anymore. Therefore, you need to provide evidence for each and every single thing that you say about their performance.
 
-Performance reviews usually contains predefined areas to which the employee will be graded towards. As a manager you cannot leave any question unattended. It is not an excuse for you if one of your employees do not take this seriously. You must do all this no matter what.
+Performance reviews usually contain predefined areas to which the employee will be graded towards. As a manager you cannot leave any question unattended. It is not an excuse for you if one of your employees does not take this seriously. You must do all this no matter what.
 
 Where should you look for data?
 * Anywhere and everywhere!
 * Ask others for feedback about the employee
 * Review completed projects. Who did what?
 * E-mails
-* Chat tools. Be mindful of only save from public channels otherwise your trust will be lost.
+* Chat tools. Be mindful of only saving from public channels otherwise your trust will be lost.
 
 In short as a manager you have to:
 1. Record/Register results of each employee
