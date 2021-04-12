@@ -23,10 +23,10 @@ Make sure to take note in order to keep track on what has been said and differen
 # The agenda
 * How often do you want to have these 1-1s with me?
    - Enough to be asked at the first 1-1 and the follow up on the frequency every once in a while.
+
 - - -
 **Should always be at the end of each 1-1**
 * Is there anything that I can help you with or do you need anything from me?
 * What can I hold you accountable for next time we talk?
    - Bring at least 1 topic for the next 1-1. This is to get the employee into the habit of bringing topics to the 1-1's. These should be things that they want to discuss with you.
 * What can I be accountable to you for the next time we talk?
-
